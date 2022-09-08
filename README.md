@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seyioo7
-- 👀 I’m interested in android development
+- 👀 I’m interested in android and blockchain development
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on android development, blockchain development, NFT.
 - 📫 How to reach me Email = seyi4guy@gmail.com
